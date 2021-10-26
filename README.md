@@ -1,6 +1,8 @@
-About project.
+Project to learn Next framework, I did a website that allows you to search for song lyrics.
 
-To learn next, I made a website that allows you to search for song lyrics.
+Weblink: https://netxjs-music-mborcari.vercel.app/
+
+
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
